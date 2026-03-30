@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "e_commerce",
-    "slug": "e_commerce",
+    "name": "StockSnap",
+    "slug": "stocksnap",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "ecommerce",
+    "scheme": "stocksnap",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
